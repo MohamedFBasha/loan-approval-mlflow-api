@@ -70,7 +70,7 @@ JSON Body:
 
 ✅ Response Example
 {
-  "predictions": [1, 0]
+  "predictions": [0, 0]
 }
 
 🧩 Tech Stack
