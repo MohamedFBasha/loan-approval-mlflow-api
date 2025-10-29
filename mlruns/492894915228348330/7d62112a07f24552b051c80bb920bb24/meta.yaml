@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/492894915228348330/7d62112a07f24552b051c80bb920bb24/artifacts
+end_time: 1760355353088
+entry_point_name: ''
+experiment_id: '492894915228348330'
+lifecycle_stage: active
+run_id: 7d62112a07f24552b051c80bb920bb24
+run_name: RandomForest_Model
+run_uuid: 7d62112a07f24552b051c80bb920bb24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760355345875
+status: 3
+tags: []
+user_id: Mohamed Basha

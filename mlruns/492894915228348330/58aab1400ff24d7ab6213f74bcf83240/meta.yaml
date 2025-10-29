@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/492894915228348330/58aab1400ff24d7ab6213f74bcf83240/artifacts
+end_time: 1760312262121
+entry_point_name: ''
+experiment_id: '492894915228348330'
+lifecycle_stage: active
+run_id: 58aab1400ff24d7ab6213f74bcf83240
+run_name: XGBoost_Model2
+run_uuid: 58aab1400ff24d7ab6213f74bcf83240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760312255783
+status: 3
+tags: []
+user_id: Mohamed Basha
